@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'MC Design Specs',
+  title: 'DJ Business Plan',
   description: 'A Collaborative Endeavour',
   base: '/busi/',
   head: [
