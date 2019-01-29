@@ -1,4 +1,4 @@
-# Intro To Business Plan
+# Introduction
 
 ## Why Open Source a Business Plan
 There are several reasons that an opens source business plan fit decentralize justice so well.

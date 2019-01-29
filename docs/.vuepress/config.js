@@ -15,6 +15,7 @@ module.exports = {
       '/intro/',
       '/todo/',
       '/brand/',
+      '/misc/'
     ]
   }
 }
