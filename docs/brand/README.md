@@ -1,4 +1,4 @@
-# Decentralize Justice Brand
+# Multisig Crypto Brand
 
 ## For the People by the People
 We believe in proving services and products that the average person can use. This shows in two main ways:
