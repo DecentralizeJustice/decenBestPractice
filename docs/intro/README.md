@@ -1,7 +1,8 @@
 # Introduction
 
 ## Why Open Source a Business Plan
-There are several reasons that an opens source business plan fit decentralize justice so well.
+There are several reasons that an open source business plan fits Multisig Crypto so well.
+
 
 ### No Secret Sauce
 There is no secret sauce to being successful. The only way to be successful in a long term manner is to execute a good plan for several years. We do not fear any competitors executing our plan, because any companies' biggest enemy is themselves, not any competitors.
