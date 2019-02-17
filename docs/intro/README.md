@@ -4,7 +4,9 @@
 There are several reasons that an open source business plan fits Multisig Crypto so well.
 
 ### Public Service
-We belive that our services and products
+We believe that our services and products are a human right. The best way to accomplish this level of
+accessibility our goal is to one day have this business be ran as a dao. Being open lays the
+seeds for this goal.
 ### No Secret Sauce
 There is no secret sauce to being successful. The only way to be successful in a long term manner is to execute a good plan for several years. We do not fear any competitors executing our plan, because any companies' biggest enemy is themselves, not any competitors.
 ### Empty Promises
