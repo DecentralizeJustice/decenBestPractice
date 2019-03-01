@@ -1,20 +1,18 @@
 module.exports = {
-  title: 'Decen Justice R & D',
-  description: 'If we knew what we were doing, it would not be research',
-  base: '/randd/',
+  title: 'Decen Justice Operations',
+  description: 'So much time so little to do',
+  base: '/opdocs/',
   head: [
     ['link', { rel: 'shortcut icon', type: 'image/x-icon', href: `favicon.ico` }]
   ],
   themeConfig: {
     nav: [
       { text: 'Intro', link: '/intro/' },
-      { text: 'Github', link: 'https://github.com/DecentralizeJustice/research-and-development' }
+      { text: 'Github', link: 'https://github.com/DecentralizeJustice/operations' }
 
     ],
     sidebar: [
-      '/intro/',
-      '/smartass/',
-      '/inspirations/'
+      '/intro/'
     ]
   }
 }
