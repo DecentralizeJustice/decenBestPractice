@@ -11,7 +11,8 @@ module.exports = {
 
     ],
     sidebar: [
-      '/intro/'
+      '/intro/',
+      '/technical/'
     ]
   }
 }
